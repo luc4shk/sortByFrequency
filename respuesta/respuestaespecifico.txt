@@ -1,0 +1,30 @@
+Caso #1
+Entrada:
+1,2,3,4,5,6,7,8,9
+Salida:
+9,8,7,6,5,4,3,2,1
+Esperando:
+9,8,7,6,5,4,3,2,1
+Resultado: Correcto
+---------------------------------------------------
+Caso #2
+Entrada:
+5,2,7,8,5,6,9
+Salida:
+9,8,7,6,2,5,5
+Esperando:
+9,8,7,6,2,5,5
+Resultado: Correcto
+---------------------------------------------------
+Error en el caso:3
+---------------------------------------------------
+Caso #4
+Entrada:
+1,2,3
+Salida:
+3,2,1
+Esperando:
+3,2,1
+Resultado: Correcto
+---------------------------------------------------
+¡TODOS LOS TEST FUERON PASADOS!
